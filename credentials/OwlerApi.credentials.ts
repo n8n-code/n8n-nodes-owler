@@ -8,7 +8,7 @@ import type {
 export class OwlerApi implements ICredentialType {
 	name = 'N8nDevOwlerApi';
 
-	displayName = 'owler API';
+	displayName = 'Owler API';
 
 	icon: Icon = { light: 'file:../nodes/Owler/owler.png', dark: 'file:../nodes/Owler/owler.dark.png' };
 
@@ -22,7 +22,7 @@ export class OwlerApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your owler API server',
+			description: 'The base URL of your Owler API server',
 		},
 		{
 			displayName: 'API Key',

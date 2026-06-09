@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-owler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search for information on companies using a website or company name and get access to Company Data, News, Blog Posts, Competitor Lists and much more",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-owler",
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "owler"
